@@ -1,4 +1,4 @@
-
+'use strict'
 console.log('Hola, PicoCSS!');
 
 const mydiv = document.querySelector('#mydiv');
