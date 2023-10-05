@@ -1,5 +1,5 @@
 'use strict'
-console.log('Hola, PicoCSS!');
+console.log('Hola Operaciones a Piñon fijo!');
 
-const mydiv = document.querySelector('#mydiv');
-mydiv.textContent = 'How are you feeling today?';
+const h1 = document.querySelector('#h1');
+h1.textContent = 'Operaciones a piñon fijo realizadas';
