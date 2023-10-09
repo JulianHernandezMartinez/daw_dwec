@@ -13,20 +13,7 @@ function recomendar() {
   const dediaRdBtn = document.querySelector('input[name="dedia"]:checked');
   const cansadoRdBtn = document.querySelector('input[name="cansado"]:checked');
   const soloRdBtn = document.querySelector('input[name="solo"]:checked');
-  let dediaIn = dediaRdBtn.value;
-  let cansadoIn = cansadoRdBtn.value;
-  let soloIn = soloRdBtn.value;
-  let result = "dormir";
-  let dedia = false;
-  let cansado = false;
-  let solo = false;
-  console.log(dediaIn);
-  console.log(cansadoIn);
-  console.log(soloIn);
-  dediaIn === 'dedia'? dedia = true: dedia = false;
-  cansadoIn === 'cansado'? cansado = true: cansado = false;
-  soloIn === 'solo'? solo = true: solo = false;
-  dedia & !cansado & solo? result = "Running" : dedia & cansado & solo? result = "Siesta" : dedia & !solo? result="Cine":result ="Dormir";
+  let result = "dummy string";
   return result;
  }
 
