@@ -21,4 +21,4 @@ let counter;
  */
 
 
-export { initCounter, getCounter };
+export { initCounter, incrementCounter, getCounter };
