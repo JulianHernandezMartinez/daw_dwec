@@ -1,0 +1,9 @@
+Proposito de aprendizaje
+Modularidad con Export e Import, y ambitos de 
+variables...
+
+El proyecto consiste en repetir la 
+de 2_Counter, pero articulando el codigo 
+en diferentes modulos, que exportan funciones
+usadas por los modulos que los importan
+funcionalidad 
