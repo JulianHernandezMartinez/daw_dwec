@@ -1,5 +1,5 @@
 
-import {  } from "./libcount.js";
+import { initCounter, incrementCounter, getCounter } from "./libcount.js";
 
 // variables
 
@@ -18,4 +18,6 @@ clickmeBtn.addEventListener('click', () => {
     counterSpn.textContent = String(counter);
 });
 
-initCounter();
+initCounter();  
+console.log(counter); // observamos que sale
+console.log(getCounter()); // observamos que sale

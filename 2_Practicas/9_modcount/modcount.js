@@ -1,5 +1,5 @@
 
-import {  } from "./libcount.js";
+import { initCounter } from "./libcount.js";
 
 // variables
 
