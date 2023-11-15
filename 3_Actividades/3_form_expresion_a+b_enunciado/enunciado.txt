@@ -1,3 +1,13 @@
+ Objetivos, Manejo de funciones/metodos de string.
+  
+  Tips.
+
+  Se puede resolver identificando el operador ("+" o "-"), 
+  los operandos, lo que esta delante y despues del operador
+  Y una vez encontrados esos elementos, ejecutar la operacion
+  
+
+
 Genera un interfaz con un formulario 
 que permita recoger una expresion
 matematica del tipo " a + b " o "a-b"
