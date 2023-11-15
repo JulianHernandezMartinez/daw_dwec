@@ -29,11 +29,13 @@ Debe permitir expresiones con un solo numeros
 "+a" o "- a" y retornara "a" o "-a"
 
 
-  FUNCION NO PERMITIDA
+  FUNCIONES NO PERMITIDAS
   
   function operaSimple(str) {
   return Function(`'use strict'; return (${str})`)()
   }
 
+eval tampoco se puede usar porque esta desaconsejada 
+por los riesgos de seguridad
 
 
