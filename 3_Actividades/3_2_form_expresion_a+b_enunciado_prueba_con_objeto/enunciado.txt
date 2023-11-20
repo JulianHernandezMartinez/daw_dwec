@@ -23,9 +23,11 @@ generemos un nuevo objeto que tenga ademas los campos
 casoDePrueba
 valorEntrada
 resultadoEsperado
-resultadoOperaSimple
+resultadoOperaSimple 
+testResult 
 
 Donde resultadoOperaSimple es el valor de aplicarle la funcion operaSimple() al valorEntrada
+y tetsResult sera = "OK" en caso de que el resultado sea igual al resultadoEsperado y "KO" en caso de que sea diferente del resultadoEsperado.
 
 Objeto de Partida:
 
