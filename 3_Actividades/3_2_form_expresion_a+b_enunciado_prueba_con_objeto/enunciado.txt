@@ -1,0 +1,39 @@
+Sobre el proyecto de la actividad anterior resuelto:
+
+Generamos un objeto para pruebas con los siguientes campos:
+
+casoDePrueba
+valorEntrada
+resultadoEsperado
+
+El casoDePrueba sera un entero del 1 al n.
+
+El valorEntrada seran los siguientes casos de pruebas del array entradasPruebas
+const entradasPruebas = ['  - 1  - 23.48', '-1.5', '+45', '+34+23', ' A ', '23 *2'];
+
+
+El resultadoEsperado seran los siguientes casos de pruebas del array resultadosEsperados
+const resultadosEsperados = ['24.48','-1.5','+45','57', 'NaN', 'NaN'];
+
+La idea es que generemos el objeto manualmente
+
+Con el objeto ya creado, hagamos mediante array.map haciendo uso la funcion operaSimple, 
+generemos un nuevo objeto que tenga ademas los campos
+
+casoDePrueba
+valorEntrada
+resultadoEsperado
+resultadoOperaSimple
+
+Donde resultadoOperaSimple es el valor de aplicarle la funcion operaSimple() al valorEntrada
+
+Objeto de Partida:
+
+
+
+Objeto de LLegada o resultado:
+
+
+
+
+
