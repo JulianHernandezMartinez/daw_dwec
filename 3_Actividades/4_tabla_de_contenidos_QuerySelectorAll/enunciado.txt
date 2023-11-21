@@ -4,6 +4,9 @@ Aprender QuerySelector all e InnerHTML
 
 Estudia en MDN esas APIs para entenderlas
 
+No se pueden usar las soluciones que aparecen en internet
+de que hacen uso de "appendchild"
+
 Usando el proyecto base que se entrega, generar un
 indice de los contenidos que se referencie a las 
 entradas de h2 (head2),y que sea generado por el JS 
