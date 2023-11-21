@@ -1,0 +1,11 @@
+Objetivos
+
+Aprender QuerySelector all e InnerHTML
+
+Estudia en MDN esas APIs para entenderlas
+
+Usando el proyecto base que se entrega, generar un
+indice de los contenidos que se referencie a las 
+entradas de h2 (head2),y que sea generado por el JS 
+automaticamente
+
