@@ -1,6 +1,6 @@
 Objetivos
 
-Aprender QuerySelector all e InnerHTML
+Aprender QuerySelectorAll e InnerHTML
 
 Estudia en MDN esas APIs para entenderlas
 
