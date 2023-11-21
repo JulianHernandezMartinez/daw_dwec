@@ -31,14 +31,14 @@ Algo del tipo:
 
 -Table of contents
     1.Buccaneer
-    2.-Man O' War
-    3.-Corsair
-    4.-Scallywags be among us
-    5.-The Jolly Roger
-    6.-The Sloop
-    7.-Lost Treasure
-    8.-Sea Legs
-    9.-Barnacles and Crustaceans
+    2.Man O' War
+    3.Corsair
+    4.Scallywags be among us
+    5.The Jolly Roger
+    6.The Sloop
+    7.Lost Treasure
+    8.Sea Legs
+    9.Barnacles and Crustaceans
 
 Una vez hecho esto, el segundo objetivo es que esas lineas
 de la lista ordenada contengan las referencias para 
