@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<title>Practicas DOM Sergi</title>
+		<link rel="shortcut icon" href="#">
+		<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+
+	<body>
+    <main id="root" class="container">
+        <h2>Actividad 1</h2>
+        <div id="act1">
+            <p id= "task1">Realiza un programa que cuando se pulse un botón con el texto “Nuevo número”, añada un elemento con un número aleatorio a una lista desordenada (elemento UL)</p>
+            <button id="newnumber">Create number</button>
+            <ul id="list">List
+                <li> First element</li>
+                <li> Second element</li>
+            </ul>
+        </div>
+
+        <h2>Actividad 2</h2>
+        <div id="act2">
+            <p id = "task2">Realiza un programa que cree dinámicamente una tabla de 100x100. Cada elemento de la tabla
+                tendrá un número único, que empezará en 1 y se irá incrementando de 1 en 1.
+                Esta página además tendrá un botón que será “Calcular numero casi primos”. Este botón hará que
+                todas las celdas de la tabla que tengan números “Casi primos” se pongan con un fondo amarillo.
+                Definimos aquí que es un “Número casi primo”:<br>
+                ● Número casi primo: es un número que solo es divisible por sí mismo, la unidad y por un solo
+                número que no sea ni la unidad ni si mismo.<br>
+                Ejemplo:<br>
+                2 no es un número casi primo, porque es divisible por 1 y por 2, pero no por otro número.<br>
+                4 es un número casi primo, porque es divisible por 1, por 4 y por 2.<br>
+                8 no es un número casi primo, porque es divisible por 1, por 8 y por 2, pero además también es
+                divisible por 4.<br>
+            </p>
+            <table id = "example",border = "2"> 3x3 Example table
+                <tbody>
+                    <tr>
+                        <td>cell in row 0, column 0</td>
+                        <td>cell in row 0, column 1</td>
+                        <td>cell in row 0, column 2</td>
+                    </tr>
+                    <tr>
+                        <td>cell in row 1, column 0</td>
+                        <td>cell in row 1, column 1</td>
+                        <td>cell in row 1, column 2</td>
+                    </tr>
+                    <tr>
+                        <td>cell in row 2, column 0</td>
+                        <td>cell in row 2, column 1</td>
+                        <td>cell in row 2, column 2</td>
+                    </tr>
+                </tbody>
+            </table>    
+        </div>
+        
+        <h2>Actividad 3</h2>
+        <div id="act3">
+            <p id ="task3">Realiza un programa que cree 100 elementos “checkbox” con números aleatorios. Además la página tendrá un botón “Marcar todos” y un botón “Desmarcar todos”, con su correspondiente funcionalidad.</p>
+        </div>
+        
+        <h2>Actividad 4</h2>
+        <div id="act4">
+            <p id = task4> Realiza un programa que tenga 3 elementos "p"(parrafo) y al hacer clic sobre ellos desaparezcan (se oculten) y al hacer doble clic (los elimine del DOM).<br>
+            También deberá tener un botón “Reaparecer” que hará que aparezcan todos los elementos desaparecidos (pero no los eliminados)<br>
+            Dentro de este html hay una div con id="act4p" para que incluyas aqui los parrafos de partida<br></p>
+                <div id="act4p"> </div>
+
+        </div>
+		<script>
+			// Insert code here or in the html if required
+            console.log("practice started");
+
+
+ 
+		
+		</script>
+    </main>
+	</body>
+</html>
