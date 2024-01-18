@@ -8,7 +8,7 @@ function setCounter(value) {
 
 function register(callback) {
     clickmeBtn.addEventListener('click', (e) => {
-        console.log('boto clicat!');
+        console.log('botón clicado!');
         callback();
     });
 }
