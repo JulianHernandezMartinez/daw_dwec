@@ -2,6 +2,7 @@ Realiza un formulario que pida una dirección de email y la valide antes de envi
 
 a) Debe validar si el email sigue el formato texto@servidor.loquesea
 b) Además de validar el formato anterior, debe comprobar que servidor.loquesea este como servidor admitido en un array de servidores llamado “listaServidores”.
+c) Debe añadir en el DOM el correo a una lista de emails.
 
 Dicho array debe ser definido a mano en el código.
 
