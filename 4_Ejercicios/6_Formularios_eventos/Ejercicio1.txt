@@ -1,3 +1,18 @@
-Realiza un formulario donde se pueda introducir y enviar un DNI con letra. El formulario deberá validar si la letra es correcta al:
-a) Perder el foco del campo de texto donde se introduce el DNI.
-b) Enviar el formulario, cancelando el envío si el formato no es correcto.
+
+Realiza un formulario donde se pueda introducir y 
+enviar un DNI con letra.
+
+https://es.wikipedia.org/wiki/N%C3%BAmero_de_identificaci%C3%B3n_fiscal
+
+
+El formulario deberá validar si la letra es correcta al:
+
+a) Perder el foco del campo de texto donde se 
+introduce el DNI.
+
+b) Enviar el formulario, cancelando el envío si 
+el formato no es correcto.
+
+Opcionalmente: El formulario deberá ir validando que la entrada tiene
+la estructura correcta con 8 numeros y una letra y que 
+la letra es la correcta.
