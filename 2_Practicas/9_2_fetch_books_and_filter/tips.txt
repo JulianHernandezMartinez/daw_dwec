@@ -1,0 +1,27 @@
+Learning Objectives / Objetivo de aprendizaje 
+Javascript:  Fetch API, Element.setAttribute(), Document.createElement(), Node.appendChild(), Node.removeChild(), Node.firstChild
+
+1.- Play with all the elements in the html (display all), and get 
+    the DOM control (:-).(at least to handle the display). Check also
+    tip #6.(QuerySelectors)
+2.- What data type structure are we going to use to handle the 
+    collected data?
+3.- Initializer (It will collect the data from server to work with 
+    and save the data in the appropiate data type , previous step).
+    Fetch()--> data
+4.- Generate an elements in the UL and add the requested attributes 
+    to handle it. (createElement & appendChild)
+5.- Automate the previous step to generate all the elements within 
+    an UL in the appropiate HTML elements.(iterate with a for on 
+    the data type structure)
+    (with the step 4 and 5 we have already generated an UL with 
+    all the required attributes - once it is done the focus() goes 
+    somewhere).
+6.- What happen if the style.display property is set to 'list-item' 
+    or 'block' in the UL and LI created before?
+7.- Generate a filter function that check if the entered string 
+    in the search field is included() in the "author" or "title" 
+    properties, if found then display, if not found remain not
+    display.
+
+
