@@ -1,1 +1,0 @@
-Este fetch1_server_aula esta adaptado para que pueda correr contra un fichero JSON local en lugar de contra un serviror remoto.
