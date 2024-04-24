@@ -19,13 +19,13 @@ que retorne "expresioninvalida"
 
 En el caso de resultado numerico, que 
 oculte el formulario y presente en un parrafo 
-una salida del tipo "RESLTADO = x"
+una salida del tipo "RESULTADO = x"
 
 En el caso de resultado "expresioninvalida" 
 que permanezca el formulario y muestre 
 "expresion invalida"
 
-Debe permitir expresiones con un solo numeros
+Debe permitir expresiones con un solo numero
 "+a" o "- a" y retornara "a" o "-a"
 
 
@@ -35,7 +35,7 @@ Debe permitir expresiones con un solo numeros
   return Function(`'use strict'; return (${str})`)()
   }
 
-eval tampoco se puede usar porque esta desaconsejada 
-por los riesgos de seguridad
+"eval" tampoco se puede usar porque esta desaconsejada 
+por riesgos de seguridad
 
 
